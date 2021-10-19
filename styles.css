@@ -1,0 +1,59 @@
+.jumbotron {
+    background-image: linear-gradient(to right, #4d194d, #212f45, #006466);
+    color: white;
+}
+
+.navbar-dark {
+    background-image: linear-gradient(to right, #4d194d, #212f45, #006466);
+}
+
+h1, h2 {
+    font-family: 'Sacramento', cursive; 
+    font-size: 60px; 
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+}
+
+.site-footer {
+    background-color: #212f45;
+    align-items: center;
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+}
+
+.about {
+    background-color: #FFFACD;
+}
+
+.card-body {
+    background-color: #FFFACD;
+}
+
+ul {
+    text-align:right;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px;
+}
+
+.cbn {
+    background-color: #4d194d;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    justify-content: center;
+    align-items: center;  
+}
+
+.btn-center {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+
+p {
+    font-size: 24px;
+}
